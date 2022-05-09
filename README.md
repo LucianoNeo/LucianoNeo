@@ -1,7 +1,10 @@
 ## Olá, me chamo Luciano dos Santos Bueno, mais conhecido como LUCIANONEO ! Tenho 36 anos, sou de Curitiba-PR, pai de 2 filhos.
 ### Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando em minha própria PJ (NeoTecHouse Informática) como especialista em suporte de TI. Mas pretendo mudar para a área de desenvolvimento WEB, portanto estou aprendendo:<br>
+- 🔭 Iniciei minha atuação no ramo da tecnologia em 1997 com meu primeiro curso de windows, office e programação em Delphi.
+- 🚀 Desenvolvi projetos em 2004 utilizando C++ e Action Script 2 e 3.0.
+- 👨‍🎓 Me formei em Redes de Computadores pela FAE São José dos Pinhais em 2018.
+- 👜 Atualmente estou trabalhando em minha própria PJ (NeoTecHouse Informática) como especialista em suporte de TI. Mas pretendo mudar para a área de desenvolvimento WEB, portanto estou aprendendo:<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50"/>
 - Tenho participado de vários bootcamps para me especializar na área, que estão sendo documentados no seguinte repositório:
 https://github.com/LucianoNeo/bootcamps
