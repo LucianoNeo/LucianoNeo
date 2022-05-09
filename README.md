@@ -10,3 +10,9 @@ https://github.com/LucianoNeo/bootcamps
 https://github.com/LucianoNeo/Cursos
 
 - 📫 Como entrar em contato comigo:
+<div>
+<a href="https://www.youtube.com/c/CanaldoLucianoNeo" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/lucianoneo target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:tec.info.luciano@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/luciano-dos-santos-bueno-58363373/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
