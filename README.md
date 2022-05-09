@@ -5,7 +5,7 @@
 - 🚀 Desenvolvi projetos em 2004 utilizando C++ e Action Script 2 e 3.0
 - 👨‍🎓 Me formei em Redes de Computadores pela FAE São José dos Pinhais em 2018.
 - 👜 Atualmente estou trabalhando em minha própria PJ (NeoTecHouse Informática) como especialista em suporte de TI. Mas pretendo mudar para a área de desenvolvimento WEB, portanto estou aprendendo:
-<div text-align="center">
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50"/>
 </div>
 - Tenho participado de vários bootcamps para me especializar na área, que estão sendo documentados no seguinte repositório:
@@ -19,7 +19,7 @@ https://github.com/LucianoNeo/expensecontrol
 <br>
 
 - 📫 Como entrar em contato comigo:
-<div>
+<div align="center">
 <a href="https://www.linkedin.com/in/luciano-dos-santos-bueno-58363373/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:tec.info.luciano@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/lucianoneo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
