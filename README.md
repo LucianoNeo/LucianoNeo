@@ -9,6 +9,10 @@ https://github.com/LucianoNeo/bootcamps
 - Além disso tenho armazenado as informações dos cursos que realizei também aqui em um repositório:
 https://github.com/LucianoNeo/Cursos
 
+- 🏗 E para aplicar tudo o que venho aprendendo, estou desenvolvendo um projeto pessoal que pode ser conferido em:
+https://github.com/LucianoNeo/expensecontrol
+<br>
+
 - 📫 Como entrar em contato comigo:
 <div>
 <a href="https://www.youtube.com/c/CanaldoLucianoNeo" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
