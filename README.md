@@ -15,6 +15,11 @@ https://github.com/LucianoNeo/bootcamps
 - Além disso tenho armazenado as informações dos cursos que realizei também aqui em um repositório:
 https://github.com/LucianoNeo/Cursos
 
+
+## PROJETOS PESSOAIS
+- Meu primeiro web-game desenvolvido com CSS e JAVASCRIPT PURO
+https://github.com/LucianoNeo/pikachu-jump
+
 - 🏗 E para aplicar tudo o que venho aprendendo, estou desenvolvendo um projeto pessoal que pode ser conferido em:
 https://github.com/LucianoNeo/expensecontrol
 <br>
