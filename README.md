@@ -17,7 +17,7 @@ https://github.com/LucianoNeo/Cursos
 
 
 ## PROJETOS PESSOAIS
-- Meu primeiro web-game desenvolvido com CSS e JAVASCRIPT PURO
+- Meu primeiro web-game desenvolvido com CSS e JAVASCRIPT PURO<br>
 https://github.com/LucianoNeo/pikachu-jump
 
 - 🏗 E para aplicar tudo o que venho aprendendo, estou desenvolvendo um projeto pessoal que pode ser conferido em:
