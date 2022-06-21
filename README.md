@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Iniciei minha atuação no ramo da tecnologia em 1997 com meu primeiro curso de windows, office e programação em Delphi.
-- 🚀 Desenvolvi projetos em 2004 utilizando C++ e Action Script 2 e 3.0
+- 🚀 Desenvolvi projetos em 2004 utilizando C-script e Action Script 2 e 3.0
 - 👨‍🎓 Me formei em Redes de Computadores pela FAE São José dos Pinhais em 2018.
 - 👜 Atualmente estou trabalhando em minha própria PJ (NeoTecHouse Informática) como especialista em suporte de TI. Mas pretendo mudar para a área de desenvolvimento WEB, portanto estou aprendendo:
 <div align="center">
