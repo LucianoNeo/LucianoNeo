@@ -7,7 +7,7 @@
 - 👜 Atualmente trabalho em minha própria PJ (NeoTecHouse Informática) como especialista em suporte de TI. Porém em processo de transição de carreira para o Desenvolvimento web front-end/full-stack. 
 Portanto já estou desenvolvendo utilizando as seguintes tecnologias:
 <br>
-<div style='display:flex items:center'>
+<div style='display:flex ;items:center'>
 <img src='https://img.shields.io/badge/HTML5-orange'>
 <img src='https://img.shields.io/badge/CSS3-blue'>
 <img src='https://img.shields.io/badge/STYLED_COMPONENTS-blue'>
