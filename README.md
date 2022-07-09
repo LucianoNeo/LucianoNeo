@@ -11,7 +11,7 @@ Portanto já estou desenvolvendo utilizando as seguintes tecnologias:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50"/>
 </div>
 
-- Tenho participado de vários bootcamps para me especializar na área, que estão sendo documentados no seguinte repositório:
+- Neste repositório estão os principais projetos que desenvolvi, através de cursos, bootcamps e eventos que participei:
 https://github.com/LucianoNeo/bootcamps
 
 
