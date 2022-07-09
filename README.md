@@ -28,7 +28,7 @@ Portanto já estou desenvolvendo utilizando as seguintes tecnologias:
 <img src='https://img.shields.io/badge/MYSQL-blue'>
   
 </div>
-<br>
+## PROJETOS EXECUTADOS / EM DESENVOLVIMENTO
 - Neste repositório estão os principais projetos que desenvolvi, através de cursos, bootcamps e eventos que participei:
 https://github.com/LucianoNeo/bootcamps
 
