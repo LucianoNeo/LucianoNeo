@@ -4,16 +4,15 @@
 - 🔭 Iniciei minha atuação no ramo da tecnologia em 1997 com meu primeiro curso de windows, office e programação em Delphi.
 - 🚀 Desenvolvi projetos em 2004 utilizando C-script e Action Script 2 e 3.0
 - 👨‍🎓 Me formei em Redes de Computadores pela FAE São José dos Pinhais em 2018.
-- 👜 Atualmente estou trabalhando em minha própria PJ (NeoTecHouse Informática) como especialista em suporte de TI. Mas pretendo mudar para a área de desenvolvimento WEB, portanto estou aprendendo:
+- 👜 Atualmente trabalho em minha própria PJ (NeoTecHouse Informática) como especialista em suporte de TI. Porém em processo de transição de carreira para o Desenvolvimento web front-end/full-stack. 
+Portanto já estou desenvolvendo utilizando as seguintes tecnologias:
+<br>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50"/>
 </div>
 
 - Tenho participado de vários bootcamps para me especializar na área, que estão sendo documentados no seguinte repositório:
 https://github.com/LucianoNeo/bootcamps
-
-- Além disso tenho armazenado as informações dos cursos que realizei também aqui em um repositório:
-https://github.com/LucianoNeo/Cursos
 
 
 ## PROJETOS PESSOAIS
