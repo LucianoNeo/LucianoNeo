@@ -34,7 +34,7 @@ Portanto já estou desenvolvendo utilizando as seguintes tecnologias:
 https://github.com/LucianoNeo/bootcamps
 
 
-### PROJETOS PESSOAIS
+## PROJETOS PESSOAIS
 - 🎮 Meu primeiro web-game desenvolvido com CSS e JAVASCRIPT PURO<br>
 https://github.com/LucianoNeo/pikachu-jump
 
