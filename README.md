@@ -10,6 +10,8 @@ Portanto já estou desenvolvendo utilizando as seguintes tecnologias:
 <div style='display:flex'>
 <img src='https://img.shields.io/badge/HTML5-orange'>
 <img src='https://img.shields.io/badge/CSS3-blue'>
+<img src='https://img.shields.io/badge/STYLED_COMPONENTS-blue'>
+<img src='https://img.shields.io/badge/TAILWINDCSS-lightblue'>
 <img src='https://img.shields.io/badge/JAVASCRIPT-yellow'>
 <img src='https://img.shields.io/badge/TYPESCRIPT-blue'>
 <img src='https://img.shields.io/badge/REACTJS-blue'>
@@ -20,9 +22,13 @@ Portanto já estou desenvolvendo utilizando as seguintes tecnologias:
 <img src='https://img.shields.io/badge/APOLLO-green'>
 <img src='https://img.shields.io/badge/VITE-blue'>
 <img src='https://img.shields.io/badge/VIMEJS-orange'>
-<img src='https://img.shields.io/badge/TAILWINDCSS-lightblue'>
+<img src='https://img.shields.io/badge/NODEJS-strong'>
+<img src='https://img.shields.io/badge/EXPRESS-green'>
+<img src='https://img.shields.io/badge/MONGODB-blue'>
+<img src='https://img.shields.io/badge/MYSQL-blue'>
+  
 </div>
-
+<br>
 - Neste repositório estão os principais projetos que desenvolvi, através de cursos, bootcamps e eventos que participei:
 https://github.com/LucianoNeo/bootcamps
 
