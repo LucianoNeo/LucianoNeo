@@ -7,8 +7,20 @@
 - 👜 Atualmente trabalho em minha própria PJ (NeoTecHouse Informática) como especialista em suporte de TI. Porém em processo de transição de carreira para o Desenvolvimento web front-end/full-stack. 
 Portanto já estou desenvolvendo utilizando as seguintes tecnologias:
 <br>
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50"/>
+<div style='display:flex'>
+<img src='https://img.shields.io/badge/HTML5-orange'>
+<img src='https://img.shields.io/badge/CSS3-blue'>
+<img src='https://img.shields.io/badge/JAVASCRIPT-yellow'>
+<img src='https://img.shields.io/badge/TYPESCRIPT-blue'>
+<img src='https://img.shields.io/badge/REACTJS-blue'>
+<img src='https://img.shields.io/badge/REACT_NATIVE-blue'>
+<img src='https://img.shields.io/badge/REACT_ROUTER_DOM-red'>
+<img src='https://img.shields.io/badge/GRAPHCMS-green'>
+<img src='https://img.shields.io/badge/GRAPHQL-lightgreen'>
+<img src='https://img.shields.io/badge/APOLLO-green'>
+<img src='https://img.shields.io/badge/VITE-blue'>
+<img src='https://img.shields.io/badge/VIMEJS-orange'>
+<img src='https://img.shields.io/badge/TAILWINDCSS-lightblue'>
 </div>
 
 - Neste repositório estão os principais projetos que desenvolvi, através de cursos, bootcamps e eventos que participei:
