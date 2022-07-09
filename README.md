@@ -28,12 +28,13 @@ Portanto já estou desenvolvendo utilizando as seguintes tecnologias:
 <img src='https://img.shields.io/badge/MYSQL-blue'>
   
 </div>
+
 ## PROJETOS EXECUTADOS / EM DESENVOLVIMENTO
 - Neste repositório estão os principais projetos que desenvolvi, através de cursos, bootcamps e eventos que participei:
 https://github.com/LucianoNeo/bootcamps
 
 
-## PROJETOS PESSOAIS
+### PROJETOS PESSOAIS
 - 🎮 Meu primeiro web-game desenvolvido com CSS e JAVASCRIPT PURO<br>
 https://github.com/LucianoNeo/pikachu-jump
 
