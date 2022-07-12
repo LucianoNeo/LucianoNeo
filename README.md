@@ -35,7 +35,7 @@ https://github.com/LucianoNeo/bootcamps
 
 
 ## PROJETOS PESSOAIS
-- 🎮 Versão de Pokémon GO em 2D, sendo desenvolvido com REACTJS.
+- 🎮 Versão de Pokémon GO em 2D, sendo desenvolvido com REACTJS.<br>
 https://github.com/LucianoNeo/pogo2d
 
 - 🎮 Meu primeiro web-game desenvolvido com CSS e JAVASCRIPT PURO<br>
