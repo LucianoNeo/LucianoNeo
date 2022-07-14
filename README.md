@@ -1,7 +1,7 @@
 ## Olá, me chamo Luciano dos Santos Bueno, mais conhecido na internet como Luciano Neo! Tenho 36 anos, sou de Curitiba-PR, pai de 2 filhos.
 ### Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Iniciei minha atuação no ramo da tecnologia em 1997 com meu primeiro curso de windows, office e programação em Delphi.
+- 🔭 Iniciei minha atuação no ramo da tecnologia em 1997 com meu primeiro curso de windows, office e Delphi.
 - 🚀 Desenvolvi projetos em 2004 utilizando C-script e Action Script 2 e 3.0
 - 👨‍🎓 Me formei em Redes de Computadores pela FAE São José dos Pinhais em 2018.
 - 👜 Atualmente trabalho em minha própria PJ (NeoTecHouse Informática) como especialista em suporte de TI. Porém em processo de transição de carreira para o Desenvolvimento web front-end/full-stack. 
