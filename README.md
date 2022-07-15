@@ -41,7 +41,7 @@ https://github.com/LucianoNeo/pogo2d
 - 🎮 Meu primeiro web-game desenvolvido com CSS e JAVASCRIPT PURO<br>
 https://github.com/LucianoNeo/pikachu-jump
 
-- 🏗 Aplicativo/Site para controle financeiro:
+- 🏗 Aplicativo/Site para controle financeiro:<br>
 https://github.com/LucianoNeo/expensecontrol
 <br>
 
