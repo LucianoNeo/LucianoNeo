@@ -34,17 +34,18 @@ Portanto já estou desenvolvendo utilizando as seguintes tecnologias:
 https://github.com/LucianoNeo/bootcamps
 
 ## FREELANCES
-- Bingo Fácil
-Sistema para marcação manual de números sorteados em bingo, desenvolvido para a Paróquia São Martinho de Lima do bairro Cajuru, Curitiba-PR.<br>
+### Bingo Fácil
+- Sistema para marcação manual de números sorteados em bingo, desenvolvido para a Paróquia São Martinho de Lima do bairro Cajuru, Curitiba-PR.<br>
 https://github.com/LucianoNeo/bingo
 
 ## PROJETOS PESSOAIS
+### Pokémon Go 2D
 - 🎮 Versão de Pokémon GO em 2D, sendo desenvolvido com REACTJS.<br>
 https://github.com/LucianoNeo/pogo2d
-
+### Pikachu Jump and Catch
 - 🎮 Meu primeiro web-game desenvolvido com CSS e JAVASCRIPT PURO<br>
 https://github.com/LucianoNeo/pikachu-jump
-
+### Expense Control
 - 🏗 Aplicativo/Site para controle financeiro:<br>
 https://github.com/LucianoNeo/expensecontrol
 <br>
