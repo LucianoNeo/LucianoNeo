@@ -33,6 +33,10 @@ Portanto já estou desenvolvendo utilizando as seguintes tecnologias:
 - Neste repositório estão os principais projetos que desenvolvi, através de cursos, bootcamps e eventos que participei:
 https://github.com/LucianoNeo/bootcamps
 
+## FREELANCES
+- Bingo Fácil
+Sistema para marcação manual de números sorteados em bingo, desenvolvido para a Paróquia São Martinho de Lima do bairro Cajuru, Curitiba-PR.<br>
+https://github.com/LucianoNeo/bingo
 
 ## PROJETOS PESSOAIS
 - 🎮 Versão de Pokémon GO em 2D, sendo desenvolvido com REACTJS.<br>
@@ -44,6 +48,9 @@ https://github.com/LucianoNeo/pikachu-jump
 - 🏗 Aplicativo/Site para controle financeiro:<br>
 https://github.com/LucianoNeo/expensecontrol
 <br>
+
+## DESAFIOS FRONT-END MENTOR
+https://github.com/LucianoNeo/FrontEnd-Mentor-Challenges
 
 - 📫 Como entrar em contato comigo:
 <div align="center">
