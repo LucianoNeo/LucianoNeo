@@ -3,9 +3,10 @@
 
 - 🔭 Iniciei minha atuação no ramo da tecnologia em 1997 com meu primeiro curso de windows, office e Delphi.
 - 🚀 Desenvolvi projetos em 2004 utilizando C-script e Action Script 3.0
+- 🎮 Criei o NEOSCAN, um serviço online que fornece informações para a comunidade de Pokémon GO.
 - 👨‍🎓 Me formei em Redes de Computadores pela FAE São José dos Pinhais em 2018.
-- 👜 Atualmente trabalho em minha própria PJ (NeoTecHouse Informática) como especialista em suporte de TI. Porém em processo de transição de carreira para o Desenvolvimento web front-end/full-stack. 
-Portanto já estou desenvolvendo utilizando as seguintes tecnologias:
+- 👜 Atualmente trabalho em minha própria PJ (NeoTecHouse Informática) como especialista em suporte de TI. E estou em processo de transição de carreira para o Desenvolvimento web front-end/mobile. 
+Minha stack atual é:
 <br>
 <div style='display:flex ; align-items:center'>
 <img src='https://img.shields.io/badge/HTML5-orange'>
@@ -29,26 +30,68 @@ Portanto já estou desenvolvendo utilizando as seguintes tecnologias:
   
 </div>
 
-## PROJETOS EXECUTADOS / EM DESENVOLVIMENTO
-- Neste repositório estão os principais projetos que desenvolvi, através de cursos, bootcamps e eventos que participei:
-https://github.com/LucianoNeo/bootcamps
+# PRICIPAIS PROJETOS
 
-## FREELANCES
+## PROJETOS COM NEXT JS
+
+### NEOSCAN RAIDS
+- Projeto em desenvolvimento para o NeoScan, que permite que os jogadores de Pokemon Go possam agendar RAIDS nas cidades onde tem a cobertura do NeoScan.<br>
+https://github.com/LucianoNeo/neoscan-raids
+
+
+### CASA VERDE
+- Landing page de um e-commerce para uma casa de plantas, desenvolvido para cumprir o desafio #7daysOfCode da Alura sobre #reactjs<br>
+https://github.com/LucianoNeo/bootcamps/tree/main/Alura/7DaysOfCode/REACTJS/next-version
+
+### ANIME LESSONS
+- Plataforma de aulas/eventos em vídeo.<br>
+https://github.com/LucianoNeo/bootcamps/tree/main/Ignite_Lab/event-platform
+
+## PROJETOS COM REACT JS
+
+### Design System
+- Design system onde foi implementado componentes do zero a partir do figma, documentado utilizando storybook e aplicado os componentes em uma SPA criada com ReactJS (vite).<br>
+https://github.com/LucianoNeo/design-system-with-storybook
+
+### Pokémon Go 2D
+- 🎮 Versão DEMO de Pokémon GO em 2D, desenvolvido com REACTJS, TAILWINDCSS e CONTEXTAPI.<br>
+https://github.com/LucianoNeo/pogo2d
+
+## PROJETOS COM REACT NATIVE
+
+### FIND DEVS
+
+- Aplicativo mobile construído com React Native/Expo , AWS AMPLIFY, AWS Cognito e Async storage, para consulta de desenvolvedores filtrados por região, stack ou categoria.<br>
+https://github.com/LucianoNeo/find-devs
+
+### ROCKET HELP
+- Aplicativo para #iOS e #Android que faz a gestão de manutenção de computadores/equipamentos.<br>
+https://github.com/LucianoNeo/bootcamps/tree/main/Ignite_Lab/rockethelp
+
+
+## PROJETOS COM JAVASCRIPT VANILLA
+
 ### Bingo Fácil
 - Sistema para marcação manual de números sorteados em bingo, desenvolvido para a Paróquia São Martinho de Lima do bairro Cajuru, Curitiba-PR.<br>
 https://github.com/LucianoNeo/bingo
 
-## PROJETOS PESSOAIS
-### Pokémon Go 2D
-- 🎮 Versão de Pokémon GO em 2D, sendo desenvolvido com REACTJS.<br>
-https://github.com/LucianoNeo/pogo2d
+
 ### Pikachu Jump and Catch
 - 🎮 Meu primeiro web-game desenvolvido com CSS e JAVASCRIPT PURO<br>
 https://github.com/LucianoNeo/pikachu-jump
+
 ### Expense Control
 - 🏗 Aplicativo/Site para controle financeiro:<br>
 https://github.com/LucianoNeo/expensecontrol
 <br>
+
+
+## PROJETOS COM NODE.JS
+
+### API REST 
+
+API REST criada com NODE JS + EXPRESS JS + NODEMON + MYSQL + BODYPARSER + MORGAN + NODEPHP-PASSWORD <br>
+https://github.com/LucianoNeo/api-rest-mysql
 
 ## DESAFIOS FRONT-END MENTOR
 https://github.com/LucianoNeo/FrontEnd-Mentor-Challenges
