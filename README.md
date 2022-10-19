@@ -71,6 +71,10 @@ https://github.com/LucianoNeo/bootcamps/tree/main/Ignite_Lab/rockethelp
 
 ## PROJETOS COM JAVASCRIPT VANILLA
 
+### Galeria de fotos
+- Galeria de fotos desenvolvida com vanilla e SASS.<br>
+https://github.com/LucianoNeo/sass-testing
+
 ### Bingo Fácil
 - Sistema para marcação manual de números sorteados em bingo, desenvolvido para a Paróquia São Martinho de Lima do bairro Cajuru, Curitiba-PR.<br>
 https://github.com/LucianoNeo/bingo
