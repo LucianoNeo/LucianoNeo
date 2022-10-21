@@ -89,6 +89,11 @@ https://github.com/LucianoNeo/pikachu-jump
 https://github.com/LucianoNeo/expensecontrol
 <br>
 
+## PROJETOS COM PYTHON
+### API REST
+Api REST desenvolvida com Python ,Flask e PANDAS com deploy na REPLIT. Utiliza PANDAS para fazer a leitura da base de dados de em arquivo local CSV, salva em memória (dicionário) e faz alteração e exclusão do dicionário.<br>
+
+https://github.com/LucianoNeo/api-python<br>
 
 ## PROJETOS COM NODE.JS
 
