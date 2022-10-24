@@ -99,6 +99,9 @@ https://github.com/LucianoNeo/api-python<br>
 ### API REST COM FAST API<br>
 https://github.com/LucianoNeo/fast-api-python
 
+### API REST COM DJANGO<br>
+https://github.com/LucianoNeo/api-python-django
+
 ### Reconhecimento e comando de voz
 https://github.com/LucianoNeo/machine-learning
 
