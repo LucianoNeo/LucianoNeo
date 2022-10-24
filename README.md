@@ -95,6 +95,13 @@ Api REST desenvolvida com Python ,Flask e PANDAS com deploy na REPLIT. Utiliza P
 
 https://github.com/LucianoNeo/api-python<br>
 
+
+### API REST COM FAST API<br>
+https://github.com/LucianoNeo/fast-api-python
+
+### Reconhecimento e comando de voz
+https://github.com/LucianoNeo/machine-learning
+
 ## PROJETOS COM NODE.JS
 
 ### API REST 
