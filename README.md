@@ -5,7 +5,8 @@
 - 🚀 Desenvolvi projetos em 2004 utilizando C-script e Action Script 3.0
 - 🎮 Criei o NEOSCAN, um serviço online que fornece informações para a comunidade de Pokémon GO.
 - 👨‍🎓 Me formei em Redes de Computadores pela FAE São José dos Pinhais em 2018.
-- 👜 Atualmente trabalho em minha própria PJ (NeoTecHouse Informática) como especialista em suporte de TI. E estou em processo de transição de carreira para o Desenvolvimento web front-end/mobile. 
+- 👜 Atualmente trabalho na INGACODE desenvolvendo projetos web com VueJS, Nuxt, C# e .NET. 
+
 Minha stack atual é:
 <br>
 <div style='display:flex ; align-items:center'>
