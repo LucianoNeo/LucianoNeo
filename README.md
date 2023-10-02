@@ -1,4 +1,4 @@
-## Olá, me chamo Luciano dos Santos Bueno, mais conhecido na internet como Luciano Neo! Tenho 37 anos, sou de Curitiba-PR, pai de 2 filhos.
+## Olá, me chamo Luciano dos Santos Bueno, mais conhecido na internet como Luciano Neo! Tenho 38 anos, sou de Curitiba-PR, pai de 2 filhos.
 ### Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Iniciei minha atuação no ramo da tecnologia em 1997 com meu primeiro curso de windows, office e Delphi.
