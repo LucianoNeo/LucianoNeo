@@ -32,7 +32,7 @@ Minha stack atual é:
   
 </div>
 
-# PRICIPAIS PROJETOS
+# PRINCIPAIS PROJETOS
 
 ## PROJETOS COM NEXT JS
 
