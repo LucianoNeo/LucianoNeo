@@ -1,9 +1,10 @@
-## Olá, me chamo Luciano dos Santos Bueno, mais conhecido na internet como Luciano Neo! Tenho 38 anos, sou de Curitiba-PR, pai de 2 filhos.
+## Olá, me chamo Luciano dos Santos Bueno, desenvolvedor Full Stack com experiência sólida em aplicações web e APIs RESTful. Atuação com Vue.js, NuxtJS, ReactJS, C#, .NET Core, Node.js e bancos de dados SQL e NoSQL. Background em suporte técnico e DevOps, com conhecimento em Linux, Docker e CI/CD. Perfil resiliente, adaptável, com foco em entregar soluções escaláveis e bem estruturadas.
+
 ### Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Iniciei minha atuação no ramo da tecnologia em 1997 com meu primeiro curso de windows, office e Delphi.
 - 🚀 Desenvolvi projetos em 2004 utilizando C-script e Action Script 3.0
-- 🎮 Criei o NEOSCAN, um serviço online que fornece informações para a comunidade de Pokémon GO.
+- 🎮 Criei o NEOSCAN, um SAAS que fornece informações para a comunidade de Pokémon GO.
 - 👨‍🎓 Me formei em Redes de Computadores pela FAE São José dos Pinhais em 2018.
 - 👜 Atualmente trabalho na INGACODE desenvolvendo projetos web com VueJS, Nuxt, C# e .NET. 
 
